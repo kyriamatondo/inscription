@@ -1,10 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './Navbar/Navbar';
+import Login from './Login/Login';
+import Eleve from './Eleve/Eleve';
+import Routes from './components/Routes';
 
 function App() {
   return (
     <div className="App">
-      allo
+      <Routes />
     </div>
   );
 }

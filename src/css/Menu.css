@@ -1,0 +1,14 @@
+.menu ul{
+    width: 12%;
+    height: 100vh;
+    background-color: rgb(84, 84, 92);
+}
+
+.menu ul li{
+    height: 100px;
+    line-height: 100px;
+    display: block;
+    margin-left: -19%;
+    color: white;
+    border-bottom: 1px solid black;
+}
